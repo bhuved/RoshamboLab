@@ -1,0 +1,4 @@
+C:\Users\vedaa\source\repos\Roshambo\obj\Debug\net8.0\Roshambo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedaa\source\repos\Roshambo\obj\Debug\net8.0\Roshambo.AssemblyInfoInputs.cache
+C:\Users\vedaa\source\repos\Roshambo\obj\Debug\net8.0\Roshambo.AssemblyInfo.cs
+C:\Users\vedaa\source\repos\Roshambo\obj\Debug\net8.0\Roshambo.csproj.CoreCompileInputs.cache
