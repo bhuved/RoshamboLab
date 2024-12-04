@@ -24,12 +24,12 @@ while (isValid == false)
     switch (opponent)
     {
         case "j":
-        case "%jet":
+        case "jet":
             rockPlayer.Name = "The Jets";
             flag = 1;
             break;
         case "s":
-        case "%shark":
+        case "sharks":
             randPlayer.Name = "The Sharks";
             flag = 2;
             break;

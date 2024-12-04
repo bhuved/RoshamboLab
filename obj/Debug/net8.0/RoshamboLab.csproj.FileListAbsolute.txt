@@ -12,3 +12,4 @@ C:\Users\vedaa\source\repos\Roshambo\obj\Debug\net8.0\refint\RoshamboLab.dll
 C:\Users\vedaa\source\repos\Roshambo\obj\Debug\net8.0\RoshamboLab.pdb
 C:\Users\vedaa\source\repos\Roshambo\obj\Debug\net8.0\RoshamboLab.genruntimeconfig.cache
 C:\Users\vedaa\source\repos\Roshambo\obj\Debug\net8.0\ref\RoshamboLab.dll
+C:\Users\vedaa\source\repos\Roshambo\obj\Debug\net8.0\RoshamboLab.sourcelink.json
