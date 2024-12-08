@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoshamboLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b6800b358dee6a79b82ce981334576bc3e9a0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c677cdebad1010c5a93b9dd56d501abf862769a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoshamboLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoshamboLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,24 +11,25 @@ namespace RoshamboLab
         public override Roshambo GenerateRoshambo()
         {
             int i = 0;
-              string userInput = Console.ReadLine().ToLower().Trim();
+            string userInput = Validator.ValidateHumanRoshambo();
                 switch (userInput)
                 {
                     case "r":
                     case "rock":
-                        return Roshambo.Rock;
+                        Value = Roshambo.Rock;
                         break;
                     case "p":
                     case "paper":
-                        return Roshambo.Paper;
+                        Value = Roshambo.Paper;
                         break;
                     case "s":
                     case "scissor":
-                        return Roshambo.Scissors;
+                        Value = Roshambo.Scissors;
                         break;
                 }
+            return Value;
 
-            return (Roshambo)i;
         }
     }
 }
+ 

@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|c:\\users\\vedaa\\source\\repos\\roshambo\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|solutionrelative:validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|c:\\users\\vedaa\\source\\repos\\roshambo\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|solutionrelative:humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|c:\\users\\vedaa\\source\\repos\\roshambo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|c:\\users\\vedaa\\source\\repos\\roshambo\\randomplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|c:\\users\\vedaa\\source\\repos\\roshambo\\rockplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|solutionrelative:rockplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|c:\\users\\vedaa\\source\\repos\\roshambo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21964F7A-512E-494D-BDC4-85BF08058598}|RoshamboLab.csproj|c:\\users\\vedaa\\source\\repos\\roshambo\\roshambo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,24 +38,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\vedaa\\source\\repos\\Roshambo\\Validator.cs",
+              "RelativeDocumentMoniker": "Validator.cs",
+              "ToolTip": "C:\\Users\\vedaa\\source\\repos\\Roshambo\\Validator.cs",
+              "RelativeToolTip": "Validator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T02:32:14.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HumanPlayer.cs",
               "DocumentMoniker": "C:\\Users\\vedaa\\source\\repos\\Roshambo\\HumanPlayer.cs",
               "RelativeDocumentMoniker": "HumanPlayer.cs",
               "ToolTip": "C:\\Users\\vedaa\\source\\repos\\Roshambo\\HumanPlayer.cs",
               "RelativeToolTip": "HumanPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T01:59:55.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T01:59:55.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RandomPlayer.cs",
               "DocumentMoniker": "C:\\Users\\vedaa\\source\\repos\\Roshambo\\RandomPlayer.cs",
               "RelativeDocumentMoniker": "RandomPlayer.cs",
@@ -63,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RockPlayer.cs",
               "DocumentMoniker": "C:\\Users\\vedaa\\source\\repos\\Roshambo\\RockPlayer.cs",
               "RelativeDocumentMoniker": "RockPlayer.cs",
@@ -75,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\vedaa\\source\\repos\\Roshambo\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
@@ -87,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Roshambo.cs",
               "DocumentMoniker": "C:\\Users\\vedaa\\source\\repos\\Roshambo\\Roshambo.cs",
               "RelativeDocumentMoniker": "Roshambo.cs",
@@ -105,7 +120,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\vedaa\\source\\repos\\Roshambo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T01:49:48.351Z",
               "EditorCaption": ""
